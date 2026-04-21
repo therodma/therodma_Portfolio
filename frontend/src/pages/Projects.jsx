@@ -1,20 +1,20 @@
 const projects = [
   {
     id: 1,
-    title: 'Distributed Task Scheduler',
-    tags: ['Python', 'Distributed Systems', 'Flask'],
+    title: 'NBA Lineup Optimizer',
+    tags: ['Python', 'Data Science', 'Pandas'],
     description:
-      'A lightweight distributed task scheduling system that assigns jobs across worker nodes using a round-robin algorithm. Supports task queuing, failure recovery, and a REST API for job submission.',
-    github: 'https://github.com/',
+      'A Python tool that analyzes NBA player statistics to generate optimized lineups. Uses player performance data to suggest the best possible combinations based on scoring, efficiency, and matchup metrics.',
+    github: 'https://github.com/therodma/NBA_Lineup_Optimizer',
     demo: null,
   },
   {
     id: 2,
-    title: 'Campus Event Finder',
-    tags: ['React', 'Node.js', 'MongoDB'],
+    title: 'NBA Winner Prediction',
+    tags: ['Python', 'Machine Learning', 'scikit-learn'],
     description:
-      'A full-stack web application for UC Merced students to discover and RSVP to campus events. Features real-time filtering by category, date, and location with a responsive UI.',
-    github: 'https://github.com/',
+      'A machine learning model that predicts NBA game outcomes using historical team and player statistics. Applies classification algorithms to identify key performance indicators that drive win probability.',
+    github: 'https://github.com/therodma/NBA_Winner_Prediction',
     demo: null,
   },
   {
