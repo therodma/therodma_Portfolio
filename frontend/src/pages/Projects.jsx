@@ -1,6 +1,15 @@
 const projects = [
   {
     id: 1,
+    title: 'Data Cleaning Tool',
+    tags: ['TypeScript', 'Data Science', 'Web App'],
+    description:
+      'A web-based data cleaning tool that allows users to upload, inspect, and clean datasets directly in the browser. Supports common cleaning operations to prepare data for analysis.',
+    github: 'https://github.com/therodma/Data_Cleaning_Tool',
+    demo: 'https://therodma.github.io/Data_Cleaning_Tool/',
+  },
+  {
+    id: 2,
     title: 'NBA Lineup Optimizer',
     tags: ['Python', 'Data Science', 'Pandas'],
     description:
@@ -9,7 +18,7 @@ const projects = [
     demo: null,
   },
   {
-    id: 2,
+    id: 3,
     title: 'NBA Winner Prediction',
     tags: ['Python', 'Machine Learning', 'scikit-learn'],
     description:
