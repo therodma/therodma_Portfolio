@@ -15,7 +15,7 @@ const projects = [
     description:
       'A Python tool that analyzes NBA player statistics to generate optimized lineups. Uses player performance data to suggest the best possible combinations based on scoring, efficiency, and matchup metrics.',
     github: 'https://github.com/therodma/NBA_Lineup_Optimizer',
-    demo: null,
+    demo: 'https://therodma.github.io/NBA_Lineup_Optimizer',
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ const projects = [
     description:
       'A machine learning model that predicts NBA game outcomes using historical team and player statistics. Applies classification algorithms to identify key performance indicators that drive win probability.',
     github: 'https://github.com/therodma/NBA_Winner_Prediction',
-    demo: null,
+    demo: 'https://therodma.github.io/NBA_Winner_Prediction',
   },
   {
     id: 3,
