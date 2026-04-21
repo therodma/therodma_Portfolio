@@ -27,7 +27,7 @@ const projects = [
     demo: 'https://therodma.github.io/NBA_Winner_Prediction',
   },
   {
-    id: 3,
+    id: 4,
     title: 'ML Sentiment Classifier',
     tags: ['Python', 'scikit-learn', 'NLP'],
     description:
