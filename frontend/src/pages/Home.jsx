@@ -23,7 +23,7 @@ export default function Home() {
         <div className="hero-links">
           <Link to="/projects">View Projects →</Link>
           <a href="mailto:roderickma@ucmerced.edu">roderickma@ucmerced.edu</a>
-          <a href="https://github.com/" target="_blank" rel="noreferrer">GitHub</a>
+          <a href="https://github.com/therodma" target="_blank" rel="noreferrer">GitHub</a>
           <a href="https://www.linkedin.com/in/roderick-ma/" target="_blank" rel="noreferrer">LinkedIn</a>
         </div>
       </section>
