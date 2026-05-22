@@ -26,24 +26,6 @@ const projects = [
     github: 'https://github.com/therodma/NBA_Winner_Prediction',
     demo: 'https://therodma.github.io/NBA_Winner_Prediction',
   },
-  {
-    id: 4,
-    title: 'ML Sentiment Classifier',
-    tags: ['Python', 'scikit-learn', 'NLP'],
-    description:
-      'A text sentiment classifier trained on product reviews using TF-IDF vectorization and a logistic regression model. Achieves 89% accuracy on the test set.',
-    github: 'https://github.com/',
-    demo: null,
-  },
-  {
-    id: 4,
-    title: 'Pathfinding Visualizer',
-    tags: ['JavaScript', 'React', 'Algorithms'],
-    description:
-      'An interactive browser-based tool that visualizes Dijkstra\'s, A*, and BFS pathfinding algorithms on a user-editable grid. Built to deepen understanding of graph traversal.',
-    github: 'https://github.com/',
-    demo: null,
-  },
 ]
 
 export default function Projects() {
